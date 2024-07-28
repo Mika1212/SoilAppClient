@@ -25,3 +25,25 @@
 
 ----
 Результаты данной работы были представлены на международной научно-практической конференции Интеллектуальная Инженерная Экономика и Индустрия 5.0 (ИНПРОМ-2024).
+
+---
+
+Экран авторизации
+
+![image_2024-06-17_17-26-35](https://github.com/user-attachments/assets/770ad4fe-b0d9-4761-8ab9-94e355408fde)
+
+Экран отправки фотографий  
+
+![image_2024-06-17_16-22-58](https://github.com/user-attachments/assets/9d2365a8-6349-4260-8910-21f539f838aa)
+
+Полученные результаты
+
+![image_2024-06-17_21-15-55](https://github.com/user-attachments/assets/eb2bdbb4-3360-46b3-b9f2-7a4af5d04c8f)
+
+Экран истории запросов пользователя
+
+![image_2024-06-17_16-42-20](https://github.com/user-attachments/assets/efc125d0-3b56-463c-9922-b72dacbd1ff0)
+
+Экран помощи
+
+![image_2024-06-17_21-13-17](https://github.com/user-attachments/assets/1512e2a8-33f6-4f3f-9c9e-16f3faa26304)
